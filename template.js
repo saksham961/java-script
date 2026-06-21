@@ -1,3 +1,6 @@
+// A template literal is just another way to write a string using backticks ` instead of quotes (" or ').
+
+
 console.log("saksham\nnarang") // \n = next line 
 
  console.log("saksham\tnarang") // \t =  tab space 
