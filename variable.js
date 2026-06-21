@@ -1,3 +1,5 @@
+//  variable is a container used to store data
+
 console.log(55+55)
 
 console.log("saksham")
@@ -12,7 +14,7 @@ console.log(p + q)
 let name = "Narang"
 console.log(name)
 
-// blocks
+// block is a group of statements enclosed within curly braces {}
 
  const student = {
     Name : "saksham",
